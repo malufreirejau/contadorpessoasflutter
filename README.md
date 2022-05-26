@@ -1,6 +1,8 @@
-# contador
+# contador de pessoas
 
 A new Flutter project.
+
+Curso Criação de Apps Android/IOS/Web com Flutter - 5 cursos em 1 - Udemy - Startto.dev
 
 ## Getting Started
 
